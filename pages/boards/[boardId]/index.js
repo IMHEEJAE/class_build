@@ -9,7 +9,7 @@ export default function BoardsPage() {
     </>
   );
 }
-export const getSeverSidePorps = () => {
-  // 만약 서버사이드 렌더링을 하는 페이지라면 ?? => out폴더로 생성 불가
-  //                                          => 이런 경우 , next.config.js 에서 exportPathMap으로 현재페이지 제외시키기
-}
+// export const getSeverSidePorps = () => {
+//   // 만약 서버사이드 렌더링을 하는 페이지라면 ?? => out폴더로 생성 불가
+//   //                                          => 이런 경우 , next.config.js 에서 exportPathMap으로 현재페이지 제외시키기
+// }
